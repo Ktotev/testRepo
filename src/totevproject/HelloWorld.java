@@ -8,7 +8,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		
 		int[] arr = {1,2,3};
-		System.out.println("arr before = " + Arrays.toString(arr));
+		System.out.println("arr befre = " + Arrays.toString(arr));
 		int[] arr3 = new int[arr.length];
 		System.out.println("arr2 before = " + Arrays.toString(arr2));
 		
