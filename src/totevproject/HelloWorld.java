@@ -9,7 +9,7 @@ public class HelloWorld {
 		
 		int[] arr = {1,2,3};
 		System.out.println("arr before = " + Arrays.toString(arr));
-		int[] arr2 = new int[arr.length];
+		int[] arr3 = new int[arr.length];
 		System.out.println("arr2 before = " + Arrays.toString(arr2));
 		
 		for(int i=0; i < arr.length; i++) {
