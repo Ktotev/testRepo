@@ -14,7 +14,7 @@ public class Main {
 
         String a = sc.nextLine();
 
- 
+ ///shahsakdsblajkvfblkjsdv
 
         if (a.equals("dog")) {
             System.out.println("mammal");
