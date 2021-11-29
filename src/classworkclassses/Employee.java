@@ -12,7 +12,7 @@ public class Employee {
 
 	@Override
 	public String toString() {
-		return "Employee [id=" + id + ", name=" + name + ", ssn=" + ssn + ", salary=" + salary + "]";
+		return "Employee [id=" + id + ", namee=" + name + ", ssn=" + ssn + ", salary=" + salary + "]";
 	}
 
 	public Employee(int id, String name, String ssn, double salary) {
